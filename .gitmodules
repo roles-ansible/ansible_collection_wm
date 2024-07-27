@@ -1,0 +1,6 @@
+[submodule "roles/sway"]
+	path = roles/sway
+	url = https://github.com/roles-ansible/ansible_role_sway.git
+[submodule "roles/i3"]
+	path = roles/i3
+	url = https://github.com/roles-ansible/ansible_role_i3wm.git
