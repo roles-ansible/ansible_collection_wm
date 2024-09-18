@@ -15,7 +15,7 @@ Ansible Collection for window manager like i3 and sway
 ## Using this Collection
 You can install the collection using ansible-galaxy by running:
 ```bash
-ansible-galaxy collection install l3d.wm:1.0.4
+ansible-galaxy collection install l3d.wm:1.0.5
 ```
 
 Remember you can to Upgrade to the latest version of the l3d.wm collection using the ``--upgrade`` parameter:
@@ -36,5 +36,5 @@ cd collections/ansible_collections/l3d/wm/
 ---
 collections:
   - name: l3d.wm
-    version: ">=1.0.4"
+    version: ">=1.0.5"
 ```
